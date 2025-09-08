@@ -149,6 +149,14 @@ This project was collaboratively developed by a team of 3 students:
 **Team Members:**
 - **Vinay Kokkisa**
 - **Jatling Mohitsa**
+### Team Contributions
+- **System Analysis & Requirements**: Collaborative effort by all team members
+- **UML Diagram Creation**: Distributed among Shashivadhan, Vinay, and Jatling
+- **Documentation**: Joint documentation and review process
+- **Design Review**: Team-based design validation and improvements
+- **Project Coordination**: Managed through regular team meetings and collaborative planning
+
+  
 ## 🤝 Contributing
 
 This project is part of academic coursework. If you're interested in contributing:
@@ -177,12 +185,26 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🎓 Academic Context
 
-This project was developed as part of a Software Engineering course to demonstrate:
-- UML modeling proficiency
-- Systems analysis and design skills
-- Understanding of blockchain technology
-- Application of software engineering methodologies
-- Technical documentation capabilities
+This project was developed as part of a Software Engineering course by a team of 3 students to demonstrate:
+- **UML modeling proficiency** across all diagram types
+- **Systems analysis and design skills** for complex distributed systems
+- **Theoretical understanding of blockchain technology** and its applications
+- **Collaborative software engineering** methodologies and teamwork
+- **Technical documentation capabilities** and professional presentation
+- **Design thinking approach** to solving real-world identity management challenges
+
+### Project Scope
+- **Focus**: Conceptual design and UML modeling only
+- **Deliverables**: Complete set of UML diagrams and documentation
+- **Approach**: Theoretical system design without implementation
+- **Collaboration**: Team-based development with distributed responsibilities
+
+### Learning Outcomes
+- Mastery of UML notation and diagram creation
+- Understanding of blockchain architecture principles
+- Knowledge of identity management system requirements
+- Experience in collaborative design and documentation
+- Skills in presenting technical concepts through visual modeling
 
 ---
 
